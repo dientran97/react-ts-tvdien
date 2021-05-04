@@ -31,14 +31,3 @@
   min-height: 20vmin;
   max-height: 20vmin;
 }
-
-.dataTable {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.emptyTable {
-  height: 280px;
-}
