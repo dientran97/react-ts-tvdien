@@ -1,0 +1,44 @@
+.appHeader {
+  padding: 0 24px;
+}
+
+.appHeader h1 {
+  color: ghostwhite;
+  min-height: 20vmin;
+}
+
+.appContent {
+  background-color: antiquewhite;
+  min-height: 80vmin;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.appFooter {
+  background-color: #282c34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  min-height: 20vmin;
+}
+
+.bodyContainer {
+  min-height: 20vmin;
+  max-height: 20vmin;
+}
+
+.dataTable {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.emptyTable {
+  height: 280px;
+}
